@@ -1,0 +1,8 @@
+library(usethis)
+use_git()
+use_github()
+use_mit_license()
+use_readme_rmd()
+use_testthat()
+use_spell_check()
+use_r("fishing")
