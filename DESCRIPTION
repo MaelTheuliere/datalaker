@@ -13,3 +13,5 @@ Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat
+URL: https://github.com/MaelTheuliere/datalaker
+BugReports: https://github.com/MaelTheuliere/datalaker/issues
