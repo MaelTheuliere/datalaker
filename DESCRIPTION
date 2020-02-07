@@ -2,10 +2,10 @@ Package: datalaker
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Maël",
+           family = "Theulière",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "mael.theuliere@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
@@ -15,3 +15,10 @@ Suggests:
     testthat
 URL: https://github.com/MaelTheuliere/datalaker
 BugReports: https://github.com/MaelTheuliere/datalaker/issues
+Imports: 
+    magrittr,
+    dplyr,
+    jsonlite,
+    git2r,
+    httr
+RoxygenNote: 7.0.2
