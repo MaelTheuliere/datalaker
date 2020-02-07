@@ -19,6 +19,5 @@ Imports:
     magrittr,
     dplyr,
     jsonlite,
-    git2r,
     httr
 RoxygenNote: 7.0.2

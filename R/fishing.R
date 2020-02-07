@@ -15,7 +15,7 @@
 #' @importFrom httr GET
 #' @importFrom httr add_headers
 #' @importFrom jsonlite fromJSON
-#' @importFrom git2r content
+#' @importFrom httr content
 
 
 fishing <- function(datafileid, millesime=NULL) {

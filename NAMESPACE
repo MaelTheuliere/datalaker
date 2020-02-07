@@ -2,8 +2,8 @@
 
 export(fishing)
 importFrom(dplyr,as_tibble)
-importFrom(git2r,content)
 importFrom(httr,GET)
 importFrom(httr,add_headers)
+importFrom(httr,content)
 importFrom(jsonlite,fromJSON)
 importFrom(magrittr,"%>%")
