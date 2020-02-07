@@ -3,9 +3,7 @@
 
 # datalaker
 
-<!-- badges: start -->
-
-<!-- badges: end -->
+<img src='man/figures/logo.png' align="right" height="138.5" />
 
 The goal of datalaker is to provide a R interface to the datalake API
 from the french MTES-MCT.

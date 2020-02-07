@@ -12,3 +12,4 @@ use_package("jsonlite")
 use_package("git2r")
 
 use_package("httr")
+use_logo("datalaker.png")
